@@ -18,7 +18,7 @@ The objective of this project is to implement a simplified version of Dijkstraâ€
  ### Implementation
  1. User Input Order: 
 <li>The program first asks the user to input the number of airports (n).</li>
-Next, it prompts for the source and target airports.
-Then, the user is asked to input the number of connections (m) between the airports, followed by the specific connections.
+<li>Next, it prompts for the source and target airports.</li>
+<li>Then, the user is asked to input the number of connections (m) between the airports, followed by the specific connections.</li>
 
 
