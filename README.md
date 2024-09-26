@@ -15,8 +15,8 @@ The objective of this project is to implement a simplified version of Dijkstraâ€
  ### Dijkstra's Algorithm
  Dijkstra's algorithm is a fundamental graph search algorithm designed to find the shortest path from a source node to all other nodes in a weighted graph with non-negative edge weights. It operates by initializing the distance to the source node as zero and all others as infinity, then iteratively selecting the unvisited node with the smallest tentative distance and exploring its neighbors. For each neighbor, it calculates the potential shorter path through the current node and updates the distances accordingly. The algorithm continues until all nodes are visited or the shortest path to a specific target node is found. With a time complexity of O((V+E)logV) using a priority queue.
 
- ### Implementation
-1. User Input Order: 
+ ### Implementation:
+1.User Input Order:
 <li>The program first asks the user to input the number of airports (n).</li>
 <li>Next, it prompts for the source and target airports.</li>
 <li>Then, the user is asked to input the number of connections (m) between the airports, followed by the specific connections.</li>
